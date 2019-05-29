@@ -1,6 +1,6 @@
 flask\_reddit
 =============
-mmp 
+hahaha woshi xiachenrui
 
 **flask_reddit** is an extendable + minimalist [Reddit](http://reddit.com) clone.
 
